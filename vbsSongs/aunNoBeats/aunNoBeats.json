@@ -82,5 +82,81 @@
                 "「貴方から言ってくださいね」"
             ]
         }
+    ],
+    "kanjis": [
+        {    
+            "jlptN5" : [
+                {
+                    "value": "行っちゃった",
+                    "kanji": "行",
+                    "furigana":"い", 
+                    "translation": "went to"
+                },
+                {
+                    "value": "零",
+                    "kanji": "零",
+                    "furigana":"ゼロ, れい", 
+                    "translation": "zero; nought"
+                },
+                {
+                    "value": "声",
+                    "kanji": "声",
+                    "furigana":"こえ", 
+                    "translation": "voice"
+                },
+                {
+                    "value": "出す",
+                    "kanji": "出",
+                    "furigana":"だ", 
+                    "translation": "to take out; to get out"
+                }
+            ]
+        },
+        {
+            "jlptN4" : [ 
+                {
+                    "value": "",
+                    "kanji": "",
+                    "furigana":"", 
+                    "translation": ""
+                }
+            ]
+        },
+        {
+            "jlptN3" : [
+                {
+                    "value": "信じてたい",
+                    "kanji": "信",
+                    "furigana":"しん", 
+                    "translation": "[I] want to believe (in)"
+                },
+                {
+                    "value": "愛されたい",
+                    "kanji": "愛",
+                    "furigana":"あい", 
+                    "translation": "[I] want to be loved"
+                },
+                {
+                    "value": "愛してたい",
+                    "kanji": "愛",
+                    "furigana":"あい", 
+                    "translation": "[I] want to love"
+                }
+            ]
+        },
+        {
+            "jlptN2" : [
+                {
+                    
+                }
+            ]
+        },
+        {
+            "jlptN1" : [
+                {
+
+                }
+            ]
+        }
     ]
 }
